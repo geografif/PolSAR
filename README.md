@@ -24,6 +24,6 @@ Collection of PolSAR resources
 
 ### Complex-Valued Neural Networks for PolSAR data
 * [CV-CNN (Matlab)](https://github.com/fudanxu/CV-CNN)
-* []()
+* [CVNN](https://github.com/NEGU93/cvnn)
+* [CVNN-PolSAR](https://github.com/NEGU93/CVNN-PolSAR)
 * [CVNN for PolSAR Classification](https://github.com/NEGU93/polsar_cvnn)
-* []
