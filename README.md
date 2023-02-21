@@ -17,7 +17,7 @@ Collection of PolSAR resources
 
 ### PolSAR Processing
 * [PolSARPro](https://earth.esa.int/web/polsarpro)
-* [Sentinel-1 SLC preprocessing to polarimetric covariance matrix C2]https://github.com/mrslab-iitb/sentinel-1-SLC-preprocessing-polarimetry
+* [Sentinel-1 SLC preprocessing to polarimetric covariance matrix C2](https://github.com/mrslab-iitb/sentinel-1-SLC-preprocessing-polarimetry)
 * [PolSAR Tools QGIS Plugin](https://github.com/Narayana-Rao/PolSAR-tools)
 * [SAR Tools QGIS Plugin](https://github.com/dipankar05/SAR-tools)
 * []()
